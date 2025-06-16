@@ -1,0 +1,4 @@
+producer.log
+consumer*.log
+*.exe
+*.o 
